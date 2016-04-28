@@ -1,0 +1,14 @@
+layout_spectrum: 0.2765957
+typography_spectrum: 0.3340425
+color:
+  lightness: 1
+  brandStrength: 0.5958222
+  saturation: 1
+  rhythmicContrast: 1
+  brandColors:
+    - '#030600'
+    - '#FEFEFE'
+    - '#B1AC99'
+    - '#A37542'
+    - '#1F6C92'
+name: Dr. Adrian Low
