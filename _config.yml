@@ -1,14 +1,26 @@
-layout_spectrum: 0.2765957
-typography_spectrum: 0.3340425
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  lightness: 1
+  saturation: 0.5639098
   brandStrength: 0.5958222
-  saturation: 1
-  rhythmicContrast: 1
+  lightness: 0.6441103
   brandColors:
     - '#030600'
     - '#FEFEFE'
     - '#B1AC99'
     - '#A37542'
     - '#1F6C92'
+  rhythmicContrast: 0.4598998
+typography_spectrum: 0.3340425
+layout_spectrum: 1
 name: Dr. Adrian Low
