@@ -1,26 +1,35 @@
+layout_spectrum: 0.5923549111873502
+typography_spectrum: 0.3970260561666092
+color:
+  lightness: 0.41660022155907334
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  saturation: 0.09708326355019345
+  brandStrength: 0.6559776443776002
+  rhythmicContrast: 0.8398094799449796
+coverPrefs:
+  filter: false
+name: Dr. Adrian Low
+analytics: {}
+github: true
+author: {}
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5639098
-  brandStrength: 0.5958222
-  lightness: 0.6441103
-  brandColors:
-    - '#030600'
-    - '#FEFEFE'
-    - '#B1AC99'
-    - '#A37542'
-    - '#1F6C92'
-  rhythmicContrast: 0.4598998
-typography_spectrum: 0.3340425
-layout_spectrum: 1
-name: Dr. Adrian Low
+    permalink:
+      path: '/:title/'
+content: []
+content_rating:
+  adult: false
+opengraph: {}
