@@ -1,6 +1,8 @@
 ---
-datePublished: '2017-07-22T23:15:18.884Z'
-dateModified: '2017-07-22T23:15:00.487Z'
+publisher: {}
+datePublished: '2017-07-22T23:22:29.417Z'
+dateModified: '2017-07-22T23:20:27.516Z'
+via: {}
 description: >-
   Currently a doctoral degree candidate in Clinical Psychology from California
   Southern University in the US and a holder of the master’s degree in Education
@@ -10,12 +12,10 @@ description: >-
   software application, technology as well as soft skills. Moreover, Adrian is a
   recognized clinical counselor at the Hong Kong Association of Psychology
   providing professional counseling service.
-sourcePath: _posts/2016-04-28-about-dr-adrian-low.md
 title: About Dr. Adrian Low
-author: []
-publisher: {}
-via: {}
+sourcePath: _posts/2016-04-28-about-dr-adrian-low.md
 inFeed: true
+author: []
 starred: false
 datePublishedOriginal: '2016-04-28T16:14:27.094Z'
 _type: Blurb
