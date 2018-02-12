@@ -37,3 +37,7 @@ content_rating:
 opengraph: {}
 title: Dr. Adrian Low
 description: 'Author, Researcher, Psychologist'
+purpose:
+  - type: contact
+    url: 'mailto:adrian.low@adtigo.com'
+    label: Contact me
