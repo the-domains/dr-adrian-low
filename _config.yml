@@ -41,3 +41,6 @@ purpose:
   - type: contact
     url: 'mailto:adrian.low@adtigo.com'
     label: Contact me
+  - type: external
+    url: 'http://www.adtigo.com'
+    label: Adult Courses
