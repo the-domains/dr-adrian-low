@@ -16,7 +16,9 @@ coverPrefs:
 name: Dr. Adrian Low
 analytics: {}
 github: true
-author: {}
+author:
+  name: DrAdrianLow
+  email: adrian.low@live.hk
 collections:
   - index:
       path: /
